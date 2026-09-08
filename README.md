@@ -2,6 +2,7 @@
 
 TextMate grammar for the [Bit programming language](https://bitlang.org).
 
+- Grammar: `syntaxes/bit.tmLanguage.json`
 - Scope name: `source.bit`
 - File extension: `.bit`
 
@@ -13,7 +14,7 @@ way round.
 
 ## Use it
 
-Point any TextMate-compatible editor at `bit.tmLanguage.json`.
+Point any TextMate-compatible editor at `syntaxes/bit.tmLanguage.json`.
 `language-configuration.json` carries the bracket, comment and auto-closing
 rules for editors that read VS Code's format.
 
